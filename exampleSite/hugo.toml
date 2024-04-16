@@ -1,7 +1,8 @@
-baseURL = "https://lightbi-hugo-theme.netlify.app/"
+#baseURL = "https://lightbi-hugo-theme.netlify.app/"
+baseURL = "https://ashokishere.github.io/lightbi-hugo/"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "Lightbi"
+title = "Lightbi"#
 theme = "lightbi-hugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
